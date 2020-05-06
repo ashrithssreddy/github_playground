@@ -17,10 +17,13 @@ install.packages("devtools")
 devtools::install_github("ashrithssreddy/dataframeexplorer")
 ```
 
+
+
+
 ## Next Steps
 ```
 Functions:
-~~Percentiles~~
+~Percentiles~
 ~~Level of dataset~~
 Univariate Analysis
 Bivariate Analysis
