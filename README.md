@@ -24,7 +24,7 @@ devtools::install_github("ashrithssreddy/dataframeexplorer")
 ```
 Functions:
 ~Percentiles~
-~~Level of dataset~~
+<del>Level of dataset</del>
 Univariate Analysis
 Bivariate Analysis
 
