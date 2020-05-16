@@ -21,9 +21,8 @@ devtools::install_github("ashrithssreddy/dataframeexplorer")
 
 
 ## Next Steps
-~Percentiles~
-```
 Functions:
+~Percentiles~
 <del>Level of dataset</del>
 <s> Univariate Analysis </s>
 Bivariate Analysis
@@ -36,15 +35,13 @@ Outputs not refined
 Pep 8 formatting
 examples not consistent
 Comments not consistent across all codes
-```
 
 ## Usage
 ```
-1. glimpse_to_file
-	glimpse_to_file(mtcars, "mtcars_glimpse.txt") or glimpse_to_file(mtcars, "C://Users/Desktop/mtcars_glimpse.txt")
-	![Output](/man/figures/.png)
-
+# glimpse_to_file
+glimpse_to_file(mtcars, "mtcars_glimpse.txt") or glimpse_to_file(mtcars, "C://Users/Desktop/mtcars_glimpse.txt")
 ```
+![Output](/man/Capture.PNG)
 
 ## Contact
 Mail ashrithssreddy@gmail.com for suggestions with "dataframeexplorer" in subject line.
