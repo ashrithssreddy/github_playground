@@ -33,8 +33,8 @@ Changes:
 - [x] ~~Default filename not consistent~~
 - [ ] Outputs not refined
 - [x] Pep 8 formatting
-- [ ] examples not consistent
-- [ ] Comments not consistent across all codes
+	- [ ] examples not consistent
+	- [ ] Comments not consistent across all codes
 
 ***
 
