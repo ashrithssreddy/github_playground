@@ -22,10 +22,10 @@ devtools::install_github("ashrithssreddy/dataframeexplorer")
 
 ## Next Steps
 Functions:
-~Percentiles~
-<del>Level of dataset</del>
-<s> Univariate Analysis </s>
-Bivariate Analysis
+* ~Percentiles~
+* <del>Level of dataset</del>
+* <s> Univariate Analysis </s>
+* Bivariate Analysis
 
 Changes:
 ~~Return value for all functions to be included into documentation~~
