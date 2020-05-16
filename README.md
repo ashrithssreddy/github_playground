@@ -28,13 +28,13 @@ Functions:
 * Bivariate Analysis
 
 Changes:
-~~Return value for all functions to be included into documentation~~
-~~Message not printed in all codes~~
-~~Default filename not consistent~~
-Outputs not refined
-Pep 8 formatting
-examples not consistent
-Comments not consistent across all codes
+- [x] ~~Return value for all functions to be included into documentation~~
+- [x] ~~Message not printed in all codes~~
+- [x] ~~Default filename not consistent~~
+- [] Outputs not refined
+- [x] Pep 8 formatting
+- [] examples not consistent
+- [] Comments not consistent across all codes
 
 ***
 
