@@ -31,10 +31,10 @@ Changes:
 - [x] ~~Return value for all functions to be included into documentation~~
 - [x] ~~Message not printed in all codes~~
 - [x] ~~Default filename not consistent~~
-- [] Outputs not refined
+- [ ] Outputs not refined
 - [x] Pep 8 formatting
-- [] examples not consistent
-- [] Comments not consistent across all codes
+- [ ] examples not consistent
+- [ ] Comments not consistent across all codes
 
 ***
 
