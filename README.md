@@ -14,7 +14,12 @@ devtools::install_github("ashrithssreddy/fsutils")
 ```
 
 ## Next Steps
-File creation or deletion
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+- File creation or deletion
 	Remove any empty folders
 	Add a folder called 99_junk (or a different name) into every folder
 
