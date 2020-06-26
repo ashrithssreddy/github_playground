@@ -14,25 +14,25 @@ devtools::install_github("ashrithssreddy/fsutils")
 ```
 
 ## Next Steps
-
-- [x] Finish my changes
+- [ ] Finish my changes
 	- [ ] Push my commits to GitHub
 	- [ ] Open a pull request
 
-File creation or deletion
-	Remove any empty folders
-	Add a folder called 99_junk (or a different name) into every folder
 
-File formatting
-	Remove special characters in each filename
-	Replace space with underscore in every file name
+- [ ] File creation or deletion
+	- [ ] Remove any empty folders
+	- [ ] Add a folder called 99_junk (or a different name) into every folder
+
+- [ ] File formatting
+	- [ ] Remove special characters in each filename
+	- [ ] Replace space with underscore in every file name
 	
-File hierarchy
-	Tree based visualization of file system
-	Excel based representation of file system
+- [ ] File hierarchy
+	- [ ] Tree based visualization of file system
+	- [ ] Excel based representation of file system
  
-Other action items
-	Check for functionalities already written in different programming languages
+- [ ] Other action items
+	- [ ] Check for functionalities already written in different programming languages
 
 ## Usage
 
